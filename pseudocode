@@ -1,0 +1,28 @@
+pseudocode
+grab numbers 1 - 100
+for each of the numbers
+  display each single number
+
+
+A program that displays all odd numbers from 1 - 100
+grab numbers 1 - 100
+ if number/2 is not integer
+  display number
+go to the next number
+
+
+A program that displays all numbers that aren't multiples of 3 or 5.
+grab numbers 1 - 100
+ if number/3 is not integer or number/5 is not integer
+  display number
+go to the next number
+
+
+A program that displays all numbers. If the number being displayed is a multiple of 3, it will display "fizz". If it is a multiple of 5, it will display "buzz"
+grab numbers 1 - 100
+  if number/3 is integer
+    display "fizz"
+  else if number/5 is integer
+    display "Buzz"
+  else if display number
+go to the next number
